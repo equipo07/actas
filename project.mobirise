@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-09-19_1810",
+    "name": "Actas",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -35,10 +35,24 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.1.4",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Jost', sans-serif",
+        "name": "Jost",
+        "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
     "publishChangesOnly": true,
     "uniqCompNum": 6,
-    "versionPublish": "5.1.4"
+    "versionPublish": "5.1.4",
+    "favicon": false,
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -490,7 +504,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content11",
-          "_customHTML": "<section class=\"content11\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"assets/files/Acta-n1G07.pdf\" data-app-placeholder=\"Type Text\" target=\"_blank\">Semana 1</a> <a class=\"btn btn-primary\" href data-app-placeholder=\"Type Text\">Semana 2&nbsp;</a> <a class=\"btn btn-primary\" href data-app-placeholder=\"Type Text\">Semana 3&nbsp;</a> <a class=\"btn btn-primary\" href data-app-placeholder=\"Type Text\">Semana 4&nbsp;</a> <a class=\"btn btn-primary\" href data-app-placeholder=\"Type Text\">Semana 5&nbsp;</a> <a class=\"btn btn-primary\" href data-app-placeholder=\"Type Text\">Semana 6</a> <a class=\"btn btn-primary\" href data-app-placeholder=\"Type Text\">Semana 7&nbsp;</a> <a class=\"btn btn-primary\" href data-app-placeholder=\"Type Text\">Semana 8</a> <a class=\"btn btn-primary\" href data-app-placeholder=\"Type Text\">Semana 9</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content11\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"assets/files/Acta-n1G07.pdf\" data-app-placeholder=\"Type Text\" target=\"_blank\">Semana 1</a> <a class=\"btn btn-primary\" href=\"assets/files/Acta-G7_n2.pdf\" data-app-placeholder=\"Type Text\" target=\"_blank\">Semana 2&nbsp;</a> <a class=\"btn btn-primary\" href=\"assets/files/Acta-G7_n3.pdf\" data-app-placeholder=\"Type Text\" target=\"_blank\">Semana 3&nbsp;</a> <a class=\"btn btn-primary\" href data-app-placeholder=\"Type Text\">Semana 4&nbsp;</a> <a class=\"btn btn-primary\" href data-app-placeholder=\"Type Text\">Semana 5&nbsp;</a> <a class=\"btn btn-primary\" href data-app-placeholder=\"Type Text\">Semana 6</a> <a class=\"btn btn-primary\" href data-app-placeholder=\"Type Text\">Semana 7&nbsp;</a> <a class=\"btn btn-primary\" href data-app-placeholder=\"Type Text\">Semana 8</a> <a class=\"btn btn-primary\" href data-app-placeholder=\"Type Text\">Semana 9</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sb4ZHJFkba",
           "_anchor": "content11-5",
           "_protectedParams": [],
